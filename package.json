@@ -1,0 +1,22 @@
+{
+  "name": "server-calculator",
+  "version": "1.0.0",
+  "description": "fast backend calculator that doesn't allow code to be seen",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tkapadi1/server-calculator.git"
+  },
+  "author": "Tejas Kapadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkapadi1/server-calculator/issues"
+  },
+  "homepage": "https://github.com/tkapadi1/server-calculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
